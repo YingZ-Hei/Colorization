@@ -27,6 +27,3 @@ cd Colorization
 # Install dependencies
 pip install -r requirements.txt
 
-
-This now includes the **Model Architecture** and **License** sections right after **Installation**, as you described. Let me know if you need anything further! 😊
-
