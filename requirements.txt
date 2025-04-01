@@ -1,0 +1,7 @@
+numpy==2.2.4
+matplotlib==3.10.1
+scikit-image==0.25.2
+torch==2.6.0
+torchvision==0.21.0
+torchmetrics==1.7.0
+kagglehub==0.3.10
