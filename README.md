@@ -1,4 +1,4 @@
-# 🌈 Colorization
+# 🌈 Exploring the Generalization of Deep Learning-based Image Colorization Across Diverse Domains
 
 ## 📌 Introduction
 Image colorization is a challenging task in computer vision, requiring models to predict realistic and appropriate colors for grayscale images. In this work, we investigate the generalizability of a deep learning-based colorization model across different image domains, including flowers, natural landscapes, and animated faces.
