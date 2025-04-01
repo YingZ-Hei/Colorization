@@ -8,4 +8,13 @@ flowers: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html
 The animation faces https://www.kaggle.com/datasets/rignak/gochiusa-faces/data
 landscape: https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization/data
 
-3. 
+3. Installation
+# Clone the repository
+git clone https://github.com/YingZ-Hei/Colorization.git
+cd Colorization
+
+# Install dependencies
+pip install -r requirements.txt
+
+4. Model Architecture
+Our model is based on a pretrained ResNet-18 backbone and operates in the CIELAB color space. The L-channel is used as input, while the model predicts the a and b color channels.
